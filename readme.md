@@ -8,6 +8,8 @@ Steps to complete test:
 * No UI or Front End is required
 * You are allowed to use any version of Java as a base (1.8, 11, 17, etc.)
 * You are allowed to use any tool to demo the functionality
+* Recommended cloning the project and configure the connection to your database, and submit an initial commit
+  * The max time allowed will be based between the initial commit and your final commit
 
 Main Requirements:
 * User can create and delete Todo Lists
